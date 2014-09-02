@@ -2,7 +2,7 @@
 #
 # createtimedir.py
 # created by Raymond Jongeneel
-# Creation date june 21, 2014
+# creation date june 21, 2014
 #
 import datetime
 import os
