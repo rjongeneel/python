@@ -3,6 +3,8 @@
 # createtimedir.py
 # created by Raymond Jongeneel
 # creation date june 21, 2014
+# Purpose: create a directory in the current working directory
+# with the name in the format: yyyy-mm-dd h24.mi.ss
 #
 import datetime
 import os
